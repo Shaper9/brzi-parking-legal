@@ -6,9 +6,9 @@ lang: sr-Latn
 
 # Uslovi korišćenja – Brzi Parking
 
-Poslednja izmena: 20. oktobar 2026.
+Poslednja izmena: 21. oktobar 2026.
 
-Korišćenjem aplikacije Brzi Parking prihvataš ove uslove. Aplikaciju razvija Marko Krstin. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+Korišćenjem aplikacije Brzi Parking prihvataš ove uslove. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## 1. Nezvanična aplikacija
 

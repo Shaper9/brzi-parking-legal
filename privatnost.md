@@ -6,9 +6,9 @@ lang: sr-Latn
 
 # Politika privatnosti – Brzi Parking
 
-Poslednja izmena: 20. oktobar 2026.
+Poslednja izmena: 21. oktobar 2026.
 
-Brzi Parking je besplatna aplikacija za plaćanje parkinga SMS porukom u Novom Sadu. Aplikaciju razvija Marko Krstin („mi”). Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+Brzi Parking („mi”) je besplatna aplikacija za plaćanje parkinga SMS porukom u Novom Sadu. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## Ukratko
 

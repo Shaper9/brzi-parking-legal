@@ -6,9 +6,9 @@ lang: en
 
 # Privacy policy – Brzi Parking
 
-Last updated: 20 October 2026
+Last updated: 21 October 2026
 
-Brzi Parking is a free app for paying for parking by SMS in Novi Sad, Serbia. It is developed by Marko Krstin ("we"). Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad, Serbia. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## In short
 

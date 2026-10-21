@@ -6,9 +6,9 @@ lang: en
 
 # Terms of use – Brzi Parking
 
-Last updated: 20 October 2026
+Last updated: 21 October 2026
 
-By using Brzi Parking you accept these terms. The app is developed by Marko Krstin. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+By using Brzi Parking you accept these terms. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## 1. Unofficial app
 
