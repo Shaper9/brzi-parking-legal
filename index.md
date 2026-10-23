@@ -5,7 +5,7 @@ permalink: /
 
 # Brzi Parking
 
-Plaćanje parkinga SMS porukom u Novom Sadu. / Pay for parking by SMS in Novi Sad.
+Plaćanje parkinga SMS porukom u Novom Sadu i Beogradu. / Pay for parking by SMS in Novi Sad and Belgrade.
 
 **Srpski**
 
