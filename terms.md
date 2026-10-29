@@ -6,7 +6,7 @@ lang: en
 
 # Terms of use – Brzi Parking
 
-Last updated: 23 October 2026
+Last updated: 29 October 2026
 
 By using Brzi Parking you accept these terms. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -38,15 +38,21 @@ Zones, prices, charging hours and SMS numbers come from data published by JKP "P
 
 Reminders are a help, not a guarantee. The phone may deliver them late or not at all (for example in battery saver mode or with notifications turned off).
 
-## 6. No warranty
+## 6. Tips
+
+- Tips are **optional**. The app is free, and a tip unlocks nothing and changes nothing in the app.
+- A tip is paid only through Google Play or the App Store, at the price shown there. A tip has nothing to do with paying for parking: it never pays for parking and is never charged to your mobile operator.
+- Refunds follow the rules of Google Play or the App Store; ask them for one. Google or Apple handle the payment, not us.
+
+## 7. No warranty
 
 The app is provided "as is", without any warranty of accuracy, availability or correctness. To the extent permitted by law, we are not liable for any damage from using the app, including fines, penalty tickets and parking paid for the wrong zone.
 
-## 7. Changes and governing law
+## 8. Changes and governing law
 
 We may change these terms; the new version applies from the date at the top. These terms are governed by the law of the Republic of Serbia.
 
-## 8. Data sources and credits
+## 9. Data sources and credits
 
 - **Parking zones in Novi Sad:** the public map of JKP "Parking servis" Novi Sad, "Tehnička baza sistema naplate – Parkirališta i parkomati" ([parkingns.rs](https://parkingns.rs/)).
 - **Parking zones in Belgrade:** the public zone map "Zonski sistem parkiranja" and the street list of JKP "Parking servis" Beograd ([parking-servis.co.rs](https://www.parking-servis.co.rs/)).

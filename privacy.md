@@ -6,7 +6,7 @@ lang: en
 
 # Privacy policy – Brzi Parking
 
-Last updated: 23 October 2026
+Last updated: 29 October 2026
 
 Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad and Belgrade, Serbia. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -17,19 +17,21 @@ Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad and 
 - The app has no ads, analytics, tracking or crash reporting.
 - Your plate leaves the phone only in the SMS you send to pay for parking.
 - From the internet the app downloads only map tiles and the latest public zone data. Those requests carry no personal data, only your IP address, as every internet request does.
+- Tips are optional and go only through Google Play or the App Store. We never see your card or bank details.
 
 ## What the app keeps on your phone
 
 This data is kept in the app's local database and is not sent to us or anyone else:
 
-| Data                                                                                                                  | Why                                                                     |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Your vehicles' licence plates and names                                                                               | So the payment SMS contains the right plate                             |
-| Parking history: plate, city, zone, SMS number, message text, time, and, if location was on, the place where you paid | Countdown, reminders, extending and the list of active parkings         |
-| Remembered places: location, zone and time of each payment or manual zone choice                                      | So the same zone is suggested straight away the next time you are there |
-| The city you are in or were in last                                                                                   | So the app opens with that city's zones                                 |
-| Zone data downloaded for your city                                                                                    | So you have the latest zones without an app update                      |
-| Settings (language, theme, reminders)                                                                                 | So the app works the way you want                                       |
+| Data                                                                                                                  | Why                                                                      |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Your vehicles' licence plates and names                                                                               | So the payment SMS contains the right plate                              |
+| Parking history: plate, city, zone, SMS number, message text, time, and, if location was on, the place where you paid | Countdown, reminders, extending and the list of active parkings          |
+| Remembered places: location, zone and time of each payment or manual zone choice                                      | So the same zone is suggested straight away the next time you are there  |
+| The city you are in or were in last                                                                                   | So the app opens with that city's zones                                  |
+| Zone data downloaded for your city                                                                                    | So you have the latest zones without an app update                       |
+| Settings (language, theme, reminders)                                                                                 | So the app works the way you want                                        |
+| A note that a tip purchase is not finished yet (only while that is so)                                                | So the app can finish the purchase later and the store doesn't refund it |
 
 **Phone backup:** if automatic backup is on (Google backup on Android, iCloud on iPhone), the system may include this app's data. That backup is kept by Google or Apple under their own rules and is tied to your account; we have no access to it.
 
@@ -63,9 +65,18 @@ Without internet the map doesn't load; everything else still works.
 
 Reminders before your parking ends are scheduled by the phone itself. There is no notification server and nothing is sent off the phone.
 
+## Tips (optional)
+
+The app is free and nothing in it is locked. If you want, you can leave a tip under Settings. A tip unlocks nothing.
+
+- A tip is a purchase in **Google Play** (Android) or the **App Store** (iPhone). Google or Apple handle the payment, your payment details and any refund, under their own privacy policies ([Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/)).
+- Only while the tip screen is open does the app connect to the store, to show the prices and to make the purchase.
+- We never get your card or bank details. We see a sale only in the reports Google or Apple give sellers (for example which tip, the price, the date and the country).
+- The app keeps no record of your tips. It only keeps a note on the phone while a purchase is not finished yet, so it can finish it later; the note is removed once it is.
+
 ## What we don't do
 
-We have no server holding your data. We use no ads, analytics, tracking tools or crash reporting. We don't sell or share data, because we don't have any.
+We have no server holding your data. We use no ads, analytics, tracking tools or crash reporting. We don't sell or share data, because we don't have any. Tips are handled entirely by Google or Apple.
 
 ## Deleting your data
 

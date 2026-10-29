@@ -6,7 +6,7 @@ lang: sr-Latn
 
 # Uslovi korišćenja – Brzi Parking
 
-Poslednja izmena: 23. oktobar 2026.
+Poslednja izmena: 29. oktobar 2026.
 
 Korišćenjem aplikacije Brzi Parking prihvataš ove uslove. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -38,15 +38,21 @@ Zone, cene, sati naplate i SMS brojevi preuzeti su iz javno objavljenih podataka
 
 Podsetnici su pomoć, a ne garancija. Telefon može da ih isporuči sa zakašnjenjem ili da ih ne isporuči (na primer u režimu štednje baterije ili ako su obaveštenja isključena).
 
-## 6. Bez garancije
+## 6. Napojnice
+
+- Napojnice su **dobrovoljne**. Aplikacija je besplatna, a napojnica ništa ne otključava i ništa u aplikaciji ne menja.
+- Napojnica se plaća samo preko Google Playa ili App Storea, po ceni koja tamo piše. Napojnica nema veze sa plaćanjem parkinga: njome se nikad ne plaća parking i nikad je ne naplaćuje tvoj mobilni operater.
+- Povraćaj novca ide po pravilima Google Playa ili App Storea; za njega se obrati njima. Plaćanje obrađuju Google ili Apple, a ne mi.
+
+## 7. Bez garancije
 
 Aplikacija se daje „takva kakva jeste”, bez ikakve garancije tačnosti, dostupnosti ili ispravnosti. U meri u kojoj to zakon dozvoljava, ne odgovaramo za štetu nastalu korišćenjem aplikacije, uključujući kazne, doplatne karte i pogrešno plaćen parking.
 
-## 7. Izmene i merodavno pravo
+## 8. Izmene i merodavno pravo
 
 Ove uslove možemo da izmenimo; nova verzija važi od datuma navedenog na vrhu. Na ove uslove primenjuje se pravo Republike Srbije.
 
-## 8. Izvori podataka i zasluge
+## 9. Izvori podataka i zasluge
 
 - **Zone parkiranja u Novom Sadu:** javna mapa JKP „Parking servis” Novi Sad, „Tehnička baza sistema naplate – Parkirališta i parkomati” ([parkingns.rs](https://parkingns.rs/)).
 - **Zone parkiranja u Beogradu:** javna mapa zona „Zonski sistem parkiranja” i spisak ulica JKP „Parking servis” Beograd ([parking-servis.co.rs](https://www.parking-servis.co.rs/)).
