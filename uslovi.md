@@ -6,19 +6,19 @@ lang: sr-Latn
 
 # Uslovi korišćenja – Brzi Parking
 
-Poslednja izmena: 29. oktobar 2026.
+Poslednja izmena: 30. oktobar 2026.
 
 Korišćenjem aplikacije Brzi Parking prihvataš ove uslove. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## 1. Nezvanična aplikacija
 
-Brzi Parking je besplatna, **nezvanična** aplikacija. Nije povezana sa JKP „Parking servis” Novi Sad, JKP „Parking servis” Beograd, Gradom Novim Sadom, Gradom Beogradom niti sa mobilnim operaterima, i oni za nju ne odgovaraju.
+Brzi Parking je besplatna, **nezvanična** aplikacija. Nije povezana sa JKP „Parking servis” Novi Sad, JKP „Parking servis” Beograd, JKP „Šumadija” Kragujevac, Gradom Novim Sadom, Gradom Beogradom, Gradom Kragujevcem niti sa mobilnim operaterima, i oni za nju ne odgovaraju.
 
 ## 2. Kako plaćanje radi
 
-- Aplikacija samo **priprema SMS** na broj zone sa tvojom registarskom oznakom. Poruku šalješ ti, a parking naplaćuje JKP „Parking servis” tog grada preko tvog mobilnog operatera.
+- Aplikacija samo **priprema SMS** na broj zone sa tvojom registarskom oznakom. Poruku šalješ ti, a parking naplaćuje javno komunalno preduzeće za parking tog grada (JKP „Parking servis” u Novom Sadu i Beogradu, JKP „Šumadija” u Kragujevcu) preko tvog mobilnog operatera.
 - „Poslato” ne znači „plaćeno”. **Parking je plaćen tek kad stigne potvrdni SMS.** Ako potvrda ne stigne, smatraj da parking nije plaćen.
-- Cenu parkinga, uključujući cenu produženja tamo gde grad to dozvoljava, određuje JKP „Parking servis” tog grada, a cenu SMS poruke tvoj operater. Oba iznosa naplaćuje operater.
+- Cenu parkinga, uključujući cenu produženja tamo gde grad to dozvoljava, određuje javno komunalno preduzeće za parking tog grada, a cenu SMS poruke tvoj operater. Oba iznosa naplaćuje operater.
 
 ## 3. Tvoja odgovornost
 
@@ -32,7 +32,7 @@ Odgovornost za tačno plaćanje i za eventualne kazne ili doplatne karte je na t
 
 ## 4. Podaci o zonama
 
-Zone, cene, sati naplate i SMS brojevi preuzeti su iz javno objavljenih podataka JKP „Parking servis” svakog grada i mogu da se promene ili da kasne za stvarnim stanjem. Na ulici uvek važi tabla.
+Zone, cene, sati naplate i SMS brojevi preuzeti su iz javno objavljenih podataka javnog komunalnog preduzeća za parking svakog grada i mogu da se promene ili da kasne za stvarnim stanjem. Na ulici uvek važi tabla.
 
 ## 5. Podsetnici
 
@@ -56,6 +56,7 @@ Ove uslove možemo da izmenimo; nova verzija važi od datuma navedenog na vrhu. 
 
 - **Zone parkiranja u Novom Sadu:** javna mapa JKP „Parking servis” Novi Sad, „Tehnička baza sistema naplate – Parkirališta i parkomati” ([parkingns.rs](https://parkingns.rs/)).
 - **Zone parkiranja u Beogradu:** javna mapa zona „Zonski sistem parkiranja” i spisak ulica JKP „Parking servis” Beograd ([parking-servis.co.rs](https://www.parking-servis.co.rs/)).
+- **Zone parkiranja u Kragujevcu:** javne mape zona (Centar, Aerodrom, Vašarište) i cenovnik JKP „Šumadija” Kragujevac ([jkpsumadija.rs](https://www.jkpsumadija.rs/)).
 - Datum korišćene verzije piše u aplikaciji, u odeljku O aplikaciji. Podaci su prerađeni (pretvoreni u koordinate) i mogu da sadrže greške.
 - **Poravnanje mape:** podaci © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), dostupni pod licencom ODbL.
 - **Mapa na Androidu:** [OpenFreeMap](https://openfreemap.org), © [OpenMapTiles](https://www.openmaptiles.org/), podaci © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).

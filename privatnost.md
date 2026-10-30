@@ -6,9 +6,9 @@ lang: sr-Latn
 
 # Politika privatnosti – Brzi Parking
 
-Poslednja izmena: 29. oktobar 2026.
+Poslednja izmena: 30. oktobar 2026.
 
-Brzi Parking („mi”) je besplatna aplikacija za plaćanje parkinga SMS porukom u Novom Sadu i Beogradu. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+Brzi Parking („mi”) je besplatna aplikacija za plaćanje parkinga SMS porukom u Novom Sadu, Beogradu i Kragujevcu. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## Ukratko
 
@@ -43,7 +43,7 @@ Ovi podaci se čuvaju u lokalnoj bazi aplikacije i ne šalju se nama ni bilo kom
 
 ## SMS za plaćanje
 
-Kad platiš, aplikacija otvara tvoju aplikaciju za poruke sa pripremljenim SMS-om na broj zone (na primer 8212 u Novom Sadu ili 9111 u Beogradu), a tekst poruke je tvoja registarska oznaka. Poruku šalješ ti, sa svog broja. Nju zatim obrađuju tvoj mobilni operater i JKP „Parking servis” Novi Sad ili JKP „Parking servis” Beograd, zavisno od grada, prema svojim pravilima o privatnosti. Mi tu poruku ne vidimo.
+Kad platiš, aplikacija otvara tvoju aplikaciju za poruke sa pripremljenim SMS-om na broj zone (na primer 8212 u Novom Sadu, 9111 u Beogradu ili 8341 u Kragujevcu), a tekst poruke je tvoja registarska oznaka. Poruku šalješ ti, sa svog broja. Nju zatim obrađuju tvoj mobilni operater i JKP „Parking servis” Novi Sad, JKP „Parking servis” Beograd ili JKP „Šumadija” Kragujevac, zavisno od grada, prema svojim pravilima o privatnosti. Mi tu poruku ne vidimo.
 
 ## Ažuriranje podataka o zonama
 
@@ -89,7 +89,7 @@ Aplikacija nije namenjena deci i ne prikuplja podatke o njima.
 
 ## Tvoja prava
 
-Pošto ne prikupljamo tvoje podatke o ličnosti, nemamo šta da ti pokažemo, ispravimo ili obrišemo: sve je na tvom telefonu i pod tvojom kontrolom. Za podatke iz SMS plaćanja obrati se svom mobilnom operateru ili JKP „Parking servis” svog grada. Ako misliš da su ti prava prekršena, možeš da podneseš pritužbu [Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs).
+Pošto ne prikupljamo tvoje podatke o ličnosti, nemamo šta da ti pokažemo, ispravimo ili obrišemo: sve je na tvom telefonu i pod tvojom kontrolom. Za podatke iz SMS plaćanja obrati se svom mobilnom operateru ili javnom komunalnom preduzeću za parking svog grada. Ako misliš da su ti prava prekršena, možeš da podneseš pritužbu [Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs).
 
 ## Izmene
 

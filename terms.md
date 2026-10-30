@@ -6,19 +6,19 @@ lang: en
 
 # Terms of use – Brzi Parking
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
 By using Brzi Parking you accept these terms. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## 1. Unofficial app
 
-Brzi Parking is a free, **unofficial** app. It is not affiliated with JKP "Parking servis" Novi Sad, JKP "Parking servis" Beograd, the City of Novi Sad, the City of Belgrade or any mobile operator, and they are not responsible for it.
+Brzi Parking is a free, **unofficial** app. It is not affiliated with JKP "Parking servis" Novi Sad, JKP "Parking servis" Beograd, JKP "Šumadija" Kragujevac, the City of Novi Sad, the City of Belgrade, the City of Kragujevac or any mobile operator, and they are not responsible for it.
 
 ## 2. How paying works
 
-- The app only **prepares an SMS** to the zone's number with your licence plate. You send the message, and the JKP "Parking servis" of the city charges for the parking through your mobile operator.
+- The app only **prepares an SMS** to the zone's number with your licence plate. You send the message, and the city's parking company (JKP "Parking servis" in Novi Sad and Belgrade, JKP "Šumadija" in Kragujevac) charges for the parking through your mobile operator.
 - "Sent" doesn't mean "paid". **Parking is paid only once the confirmation SMS arrives.** If no confirmation arrives, assume the parking is not paid.
-- The parking price, including the price of an extension where the city allows one, is set by the city's JKP "Parking servis", and the SMS price by your operator. Your operator charges both.
+- The parking price, including the price of an extension where the city allows one, is set by the city's parking company, and the SMS price by your operator. Your operator charges both.
 
 ## 3. Your responsibility
 
@@ -32,7 +32,7 @@ You are responsible for paying correctly and for any fines or penalty tickets.
 
 ## 4. Zone data
 
-Zones, prices, charging hours and SMS numbers come from data published by JKP "Parking servis" of each city and may change or lag behind reality. The street sign always applies.
+Zones, prices, charging hours and SMS numbers come from data published by each city's parking company and may change or lag behind reality. The street sign always applies.
 
 ## 5. Reminders
 
@@ -56,6 +56,7 @@ We may change these terms; the new version applies from the date at the top. The
 
 - **Parking zones in Novi Sad:** the public map of JKP "Parking servis" Novi Sad, "Tehnička baza sistema naplate – Parkirališta i parkomati" ([parkingns.rs](https://parkingns.rs/)).
 - **Parking zones in Belgrade:** the public zone map "Zonski sistem parkiranja" and the street list of JKP "Parking servis" Beograd ([parking-servis.co.rs](https://www.parking-servis.co.rs/)).
+- **Parking zones in Kragujevac:** the public zone maps (Centar, Aerodrom, Vašarište) and the price list of JKP "Šumadija" Kragujevac ([jkpsumadija.rs](https://www.jkpsumadija.rs/)).
 - The date of the version used is shown in the app under About. The data has been processed (turned into coordinates) and may contain errors.
 - **Map alignment:** data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the ODbL.
 - **Map on Android:** [OpenFreeMap](https://openfreemap.org), © [OpenMapTiles](https://www.openmaptiles.org/), data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).

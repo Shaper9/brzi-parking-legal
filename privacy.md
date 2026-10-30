@@ -6,9 +6,9 @@ lang: en
 
 # Privacy policy – Brzi Parking
 
-Last updated: 29 October 2026
+Last updated: 30 October 2026
 
-Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad and Belgrade, Serbia. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
+Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad, Belgrade and Kragujevac, Serbia. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
 ## In short
 
@@ -43,7 +43,7 @@ This data is kept in the app's local database and is not sent to us or anyone el
 
 ## The payment SMS
 
-When you pay, the app opens your messaging app with an SMS ready to send to the zone's number (for example 8212 in Novi Sad or 9111 in Belgrade), and the message text is your licence plate. You send the message from your own number. It is then handled by your mobile operator and by JKP "Parking servis" Novi Sad or JKP "Parking servis" Beograd, depending on the city, under their own privacy rules. We never see it.
+When you pay, the app opens your messaging app with an SMS ready to send to the zone's number (for example 8212 in Novi Sad, 9111 in Belgrade or 8341 in Kragujevac), and the message text is your licence plate. You send the message from your own number. It is then handled by your mobile operator and by JKP "Parking servis" Novi Sad, JKP "Parking servis" Beograd or JKP "Šumadija" Kragujevac, depending on the city, under their own privacy rules. We never see it.
 
 ## Zone data updates
 
@@ -89,7 +89,7 @@ The app is not directed at children and collects no data about them.
 
 ## Your rights
 
-Since we don't collect your personal data, there is nothing for us to show, correct or delete: it is all on your phone and under your control. For data from SMS payments, contact your mobile operator or the JKP "Parking servis" of your city. If you believe your rights have been violated, you can complain to Serbia's [Commissioner for Information of Public Importance and Personal Data Protection](https://www.poverenik.rs).
+Since we don't collect your personal data, there is nothing for us to show, correct or delete: it is all on your phone and under your control. For data from SMS payments, contact your mobile operator or your city's parking company (JKP). If you believe your rights have been violated, you can complain to Serbia's [Commissioner for Information of Public Importance and Personal Data Protection](https://www.poverenik.rs).
 
 ## Changes
 
