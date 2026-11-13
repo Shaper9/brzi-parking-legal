@@ -6,7 +6,7 @@ lang: en
 
 # Terms of use – Brzi Parking
 
-Last updated: 30 October 2026
+Last updated: 13 November 2026
 
 By using Brzi Parking you accept these terms. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -19,6 +19,7 @@ Brzi Parking is a free, **unofficial** app. It is not affiliated with JKP "Parki
 - The app only **prepares an SMS** to the zone's number with your licence plate. You send the message, and the city's parking company (JKP "Parking servis" in Novi Sad and Belgrade, JKP "Šumadija" in Kragujevac) charges for the parking through your mobile operator.
 - "Sent" doesn't mean "paid". **Parking is paid only once the confirmation SMS arrives.** If no confirmation arrives, assume the parking is not paid.
 - The parking price, including the price of an extension where the city allows one, is set by the city's parking company, and the SMS price by your operator. Your operator charges both.
+- The amounts on the **Costs** screen are **approximate**: the app works them out from the zone's price list at the time of sending, not from your bill. They are not a bill or proof of payment, and they do not include what your operator charges for the SMS itself. Your operator's bill shows the exact amount.
 
 ## 3. Your responsibility
 

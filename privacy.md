@@ -6,7 +6,7 @@ lang: en
 
 # Privacy policy – Brzi Parking
 
-Last updated: 30 October 2026
+Last updated: 13 November 2026
 
 Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad, Belgrade and Kragujevac, Serbia. Contact: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -23,15 +23,17 @@ Brzi Parking ("we") is a free app for paying for parking by SMS in Novi Sad, Bel
 
 This data is kept in the app's local database and is not sent to us or anyone else:
 
-| Data                                                                                                                  | Why                                                                      |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Your vehicles' licence plates and names                                                                               | So the payment SMS contains the right plate                              |
-| Parking history: plate, city, zone, SMS number, message text, time, and, if location was on, the place where you paid | Countdown, reminders, extending and the list of active parkings          |
-| Remembered places: location, zone and time of each payment or manual zone choice                                      | So the same zone is suggested straight away the next time you are there  |
-| The city you are in or were in last                                                                                   | So the app opens with that city's zones                                  |
-| Zone data downloaded for your city                                                                                    | So you have the latest zones without an app update                       |
-| Settings (language, theme, reminders)                                                                                 | So the app works the way you want                                        |
-| A note that a tip purchase is not finished yet (only while that is so)                                                | So the app can finish the purchase later and the store doesn't refund it |
+| Data                                                                                                                                                                                                           | Why                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Your vehicles' licence plates and names                                                                                                                                                                        | So the payment SMS contains the right plate                                                                                     |
+| Parking history, about one year: plate, city, zone, SMS number, message text, time and the price on the zone's price list, and, if location was on, the place where you paid (only for the latest 20 payments) | Countdown, reminders, extending, the list of active parkings and the Costs screen (what parking cost per month and per vehicle) |
+| Remembered places: location, zone and time of each payment or manual zone choice                                                                                                                               | So the same zone is suggested straight away the next time you are there                                                         |
+| The city you are in or were in last                                                                                                                                                                            | So the app opens with that city's zones                                                                                         |
+| Zone data downloaded for your city                                                                                                                                                                             | So you have the latest zones without an app update                                                                              |
+| Settings (language, theme, reminders, the vehicle and view chosen in Costs)                                                                                                                                    | So the app works the way you want                                                                                               |
+| A note that a tip purchase is not finished yet (only while that is so)                                                                                                                                         | So the app can finish the purchase later and the store doesn't refund it                                                        |
+
+**How long:** parking history is kept from the first day of the same month a year earlier (in November 2026, from 1 November 2025). The app deletes older parkings by itself the next time you pay, and the Costs screen does not show them. The amounts in Costs are worked out on the phone from this history.
 
 **Phone backup:** if automatic backup is on (Google backup on Android, iCloud on iPhone), the system may include this app's data. That backup is kept by Google or Apple under their own rules and is tied to your account; we have no access to it.
 
@@ -80,7 +82,7 @@ We have no server holding your data. We use no ads, analytics, tracking tools or
 
 ## Deleting your data
 
-- In the app: **Settings → Delete all data** removes vehicles, history, remembered places and settings.
+- In the app: **Settings → Delete all data** removes vehicles, parking and cost history, remembered places and settings.
 - Uninstalling the app removes all of its data (except a phone backup, if you have one; delete that in your Google or Apple account settings).
 
 ## Children

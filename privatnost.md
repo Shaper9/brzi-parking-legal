@@ -6,7 +6,7 @@ lang: sr-Latn
 
 # Politika privatnosti – Brzi Parking
 
-Poslednja izmena: 30. oktobar 2026.
+Poslednja izmena: 13. novembar 2026.
 
 Brzi Parking („mi”) je besplatna aplikacija za plaćanje parkinga SMS porukom u Novom Sadu, Beogradu i Kragujevcu. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -23,15 +23,17 @@ Brzi Parking („mi”) je besplatna aplikacija za plaćanje parkinga SMS poruko
 
 Ovi podaci se čuvaju u lokalnoj bazi aplikacije i ne šalju se nama ni bilo kome drugom:
 
-| Podatak                                                                                                                             | Zašto                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Registarske oznake i nazivi tvojih vozila                                                                                           | Da bi SMS za plaćanje sadržao tačnu tablicu                         |
-| Istorija parkiranja: tablica, grad, zona, SMS broj, tekst poruke, vreme, a ako je lokacija bila uključena i mesto na kom je plaćeno | Odbrojavanje, podsetnici, produženje i lista aktivnih parkiranja    |
-| Zapamćena mesta: lokacija, zona i vreme svakog plaćanja ili ručnog izbora zone                                                      | Da ti na istom mestu sledeći put odmah predloži istu zonu           |
-| Grad u kom si sada ili poslednji put                                                                                                | Da se aplikacija otvori sa zonama tog grada                         |
-| Podaci o zonama preuzeti za tvoj grad                                                                                               | Da imaš najnovije zone bez ažuriranja aplikacije                    |
-| Podešavanja (jezik, tema, podsetnici)                                                                                               | Da aplikacija radi onako kako želiš                                 |
-| Napomena da kupovina napojnice još nije završena (samo dok je tako)                                                                 | Da aplikacija može kasnije da je završi i da je prodavnica ne vrati |
+| Podatak                                                                                                                                                                                                         | Zašto                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Registarske oznake i nazivi tvojih vozila                                                                                                                                                                       | Da bi SMS za plaćanje sadržao tačnu tablicu                                                                                           |
+| Istorija parkiranja, oko godinu dana: tablica, grad, zona, SMS broj, tekst poruke, vreme i cena po cenovniku zone, a ako je lokacija bila uključena i mesto na kom je plaćeno (samo kod poslednjih 20 plaćanja) | Odbrojavanje, podsetnici, produženje, lista aktivnih parkiranja i ekran Troškovi (koliko je parkiranje koštalo po mesecu i po vozilu) |
+| Zapamćena mesta: lokacija, zona i vreme svakog plaćanja ili ručnog izbora zone                                                                                                                                  | Da ti na istom mestu sledeći put odmah predloži istu zonu                                                                             |
+| Grad u kom si sada ili poslednji put                                                                                                                                                                            | Da se aplikacija otvori sa zonama tog grada                                                                                           |
+| Podaci o zonama preuzeti za tvoj grad                                                                                                                                                                           | Da imaš najnovije zone bez ažuriranja aplikacije                                                                                      |
+| Podešavanja (jezik, tema, podsetnici, vozilo i prikaz izabrani u Troškovima)                                                                                                                                    | Da aplikacija radi onako kako želiš                                                                                                   |
+| Napomena da kupovina napojnice još nije završena (samo dok je tako)                                                                                                                                             | Da aplikacija može kasnije da je završi i da je prodavnica ne vrati                                                                   |
+
+**Koliko dugo:** istorija parkiranja se čuva od prvog dana istog meseca pre godinu dana (u novembru 2026. od 1. novembra 2025). Starija parkiranja aplikacija sama briše kad platiš sledeći put, a ekran Troškovi ih ne prikazuje. Iznosi u Troškovima se računaju na telefonu, iz ove istorije.
 
 **Kopija telefona (backup):** ako na telefonu imaš uključenu automatsku rezervnu kopiju (Google rezervna kopija na Androidu, iCloud na iPhoneu), sistem može da uključi i podatke ove aplikacije. Tu kopiju čuvaju Google ili Apple prema svojim pravilima i ona je vezana za tvoj nalog; mi joj nemamo pristup.
 
@@ -80,7 +82,7 @@ Nemamo server sa tvojim podacima. Ne koristimo reklame, analitiku, alate za pra�
 
 ## Brisanje podataka
 
-- U aplikaciji: **Podešavanja → Obriši sve podatke** briše vozila, istoriju, zapamćena mesta i podešavanja.
+- U aplikaciji: **Podešavanja → Obriši sve podatke** briše vozila, istoriju parkiranja i troškova, zapamćena mesta i podešavanja.
 - Brisanjem aplikacije sa telefona brišu se i svi njeni podaci (osim kopije telefona, ako je imaš; nju brišeš u podešavanjima Google ili Apple naloga).
 
 ## Deca

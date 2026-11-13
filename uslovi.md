@@ -6,7 +6,7 @@ lang: sr-Latn
 
 # Uslovi korišćenja – Brzi Parking
 
-Poslednja izmena: 30. oktobar 2026.
+Poslednja izmena: 13. novembar 2026.
 
 Korišćenjem aplikacije Brzi Parking prihvataš ove uslove. Kontakt: [brziparking@gmail.com](mailto:brziparking@gmail.com).
 
@@ -19,6 +19,7 @@ Brzi Parking je besplatna, **nezvanična** aplikacija. Nije povezana sa JKP „P
 - Aplikacija samo **priprema SMS** na broj zone sa tvojom registarskom oznakom. Poruku šalješ ti, a parking naplaćuje javno komunalno preduzeće za parking tog grada (JKP „Parking servis” u Novom Sadu i Beogradu, JKP „Šumadija” u Kragujevcu) preko tvog mobilnog operatera.
 - „Poslato” ne znači „plaćeno”. **Parking je plaćen tek kad stigne potvrdni SMS.** Ako potvrda ne stigne, smatraj da parking nije plaćen.
 - Cenu parkinga, uključujući cenu produženja tamo gde grad to dozvoljava, određuje javno komunalno preduzeće za parking tog grada, a cenu SMS poruke tvoj operater. Oba iznosa naplaćuje operater.
+- Iznosi u ekranu **Troškovi** su **okvirni**: aplikacija ih računa po cenovniku zone u trenutku slanja, a ne iz računa. Nisu račun ni potvrda plaćanja, i u njima nema cene SMS poruke kod operatera. Tačan iznos piše na računu tvog operatera.
 
 ## 3. Tvoja odgovornost
 
